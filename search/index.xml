@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Search on Breaking Waves</title>
-    <link>https://example.com/search/</link>
+    <link>https://zchen43-research.pages.dev/search/</link>
     <description>Recent content in Search on Breaking Waves</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://example.com/search/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://zchen43-research.pages.dev/search/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

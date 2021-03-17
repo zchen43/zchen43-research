@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>random on Breaking Waves</title>
-    <link>https://example.com/tags/random/</link>
+    <link>https://zchen43-research.pages.dev/tags/random/</link>
     <description>Recent content in random on Breaking Waves</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/random/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zchen43-research.pages.dev/tags/random/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World</title>
-      <link>https://example.com/post/hello/</link>
+      <link>https://zchen43-research.pages.dev/post/hello/</link>
       <pubDate>Mon, 15 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/hello/</guid>
+      <guid>https://zchen43-research.pages.dev/post/hello/</guid>
       <description>&lt;p&gt;This site is just a test.&lt;/p&gt;
 &lt;p&gt;More posts to follow&lt;/p&gt;</description>
     </item>
